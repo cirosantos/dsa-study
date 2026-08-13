@@ -1,4 +1,4 @@
-package strings;
+package foundation.strings;
 
 /**
  * Practice working with immutable strings by implementing a safe character replacement function.

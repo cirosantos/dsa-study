@@ -1,4 +1,4 @@
-package strings.counting;
+package foundation.strings;
 
 /**
  * Write a function that removes all vowels from a given string. Vowels include both lowercase (a, e, i, o, u) and uppercase (A, E, I, O, U) letters.
@@ -15,7 +15,7 @@ package strings.counting;
  *
  * A new string with all vowels removed
  */
-public class RemoveVoewls {
+public class RemoveVowels {
     public static String removeVowels(String s) {
         String vowels = "aeiouAEIOU";
         StringBuffer sb = new StringBuffer();

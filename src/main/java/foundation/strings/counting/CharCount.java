@@ -1,4 +1,4 @@
-package strings.counting;
+package foundation.strings.counting;
 
 import java.util.HashMap;
 import java.util.Map;

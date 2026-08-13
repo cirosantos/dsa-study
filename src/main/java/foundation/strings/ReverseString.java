@@ -1,4 +1,4 @@
-package strings;
+package foundation.strings;
 
 /**
  * Write a function that reverses a string. The function should take a string as input and return a new string with characters in reverse order.

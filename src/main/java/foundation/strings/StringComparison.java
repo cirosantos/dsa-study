@@ -1,4 +1,4 @@
-package strings;
+package foundation.strings;
 
 /**
  * Implement a function that compares two strings lexicographically.

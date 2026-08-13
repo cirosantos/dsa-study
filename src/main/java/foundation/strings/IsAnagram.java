@@ -1,4 +1,4 @@
-package strings;
+package foundation.strings;
 
 import java.util.HashMap;
 import java.util.Map;

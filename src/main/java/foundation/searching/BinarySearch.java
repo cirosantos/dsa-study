@@ -1,4 +1,4 @@
-package searching;
+package foundation.searching;
 
 /**
  * Example: Binary Search in Sorted Array
